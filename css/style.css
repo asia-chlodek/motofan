@@ -1,0 +1,26 @@
+.body {
+    background-image: url("https://files.fm/thumb_show.php?i=527buahzn");
+    color:aliceblue;
+    margin: 20px 20px auto;
+    padding: auto;
+    text-align: center;
+    width: 1000px;
+}
+.list {
+    color: #fff;
+    border: aqua;
+    text-align: left;
+}
+.table {
+    width: max-content;
+    height: max-content;
+    border-color: rgb(238, 74, 74);
+    border-style: double;    
+}
+.link {
+    color: darkred;
+    text-decoration: none;
+    border: 2px solid white;
+    margin: auto;
+    font-size:large;
+}
